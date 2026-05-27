@@ -22,7 +22,7 @@ AISTalk は、AIキャラクターとの自然な会話体験を目指した
 
 実際に AI キャラクターと会話しているデモ動画です。
 
-[![AISTalk Demo](./docs/images/thumbnail.jpg)](https://www.youtube.com/watch?v=rSlGkJ_2o34)
+[![AISTalk Demo](./docs/images/thumbnail.jpg)](https://www.youtube.com/watch?v=ACRXmts7qek)
 
 > 音声入力 → AI返答 → 音声再生 → 口パク → UI連携 の一連の流れを確認できます。
 

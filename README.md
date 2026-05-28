@@ -42,7 +42,7 @@ AISTalk は、AIキャラクターとの自然な会話体験を目指した
 # Conversation History
 
 <p align="center">
-  <img src="./docs/images/right.png" width="700" />
+  <img src="./docs/images/right.png?v=2" width="700" />
 </p>
 
 右側ドロワーでは、過去の会話履歴を確認可能です。  
